@@ -3,7 +3,7 @@
 
 
 The purpose of this project is finding the best machine learning model to predict the price of house/apartment in one of three polish cities: 
-Krakow, Warszawa or Poznan using the following features: 
+Krakow, Warszawa or Poznan using the following features:  
 
 a) Floor - on which floor the apartment is located 
 b) Rooms - how many rooms there are in the apartment 
